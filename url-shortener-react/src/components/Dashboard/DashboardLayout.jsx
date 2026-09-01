@@ -231,7 +231,7 @@ const DashboardLayout = () => {
 
           <button
             onClick={() => setShortenPopUp(true)}
-            className="bg-custom-gradient px-5 py-3 rounded-md text-white font-semibold shadow-md hover:opacity-90 transition"
+            className="bg-black text-white px-5 py-3 rounded-md font-bold"
           >
             Create a New Short URL
           </button>
